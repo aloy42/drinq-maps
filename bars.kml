@@ -1,0 +1,5318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>bars</name>
+    <description/>
+    <Style id="icon-1517-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1517-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1517-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1517-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1517-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>northridge.csv</name>
+      <Placemark>
+        <name>Taps Valley Gastropub</name>
+        <description><![CDATA[id: 1<br>Genre: Gastropubs<br>Rating: 4<br>Lat: 34.25843646<br>Long: -118.5392713<br>Cost: $$<br>Address: 18673 Devonshire St<br>Citiy: Northridge<br>Zip Code: 91324<br>Country: US<br>State: CA<br>Phone: (818) 217-4199]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>1.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>Gastropubs</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.25843646</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.5392713</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>18673 Devonshire St</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Northridge</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91324.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 217-4199</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.5392713,34.25843646,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bar Louie</name>
+        <description><![CDATA[id: 2<br>Genre: Bars<br>Rating: 3<br>Lat: 34.24049883<br>Long: -118.556436<br>Cost: $$<br>Address: 9301 Tampa Ave<br>Citiy: Northridge<br>Zip Code: 91324<br>Country: US<br>State: CA<br>Phone: (747) 224-5900]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>2.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>Bars</value>
+          </Data>
+          <Data name="Rating">
+            <value>3.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.24049883</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.556436</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>9301 Tampa Ave</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Northridge</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91324.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(747) 224-5900</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.556436,34.24049883,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Paragon Bar & Grill]]></name>
+        <description><![CDATA[id: 3<br>Genre: Bars<br>Rating: 4<br>Lat: 34.22156<br>Long: -118.51033<br>Cost: $$<br>Address: 8319 Louise Ave<br>Citiy: Northridge<br>Zip Code: 91325<br>Country: US<br>State: CA<br>Phone: (818) 996-3353]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>Bars</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.22156</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.51033</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>8319 Louise Ave</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Northridge</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91325.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 996-3353</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.51033,34.22156,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Witches Brew Cocktail Lounge</name>
+        <description><![CDATA[id: 4<br>Genre: Bars<br>Rating: 4<br>Lat: 34.22842497<br>Long: -118.4843506<br>Cost: $<br>Address: 16151 Parthenia St<br>Citiy: North Hills<br>Zip Code: 91343<br>Country: US<br>State: CA<br>Phone: (818) 892-1480]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>4.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>Bars</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.22842497</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.4843506</value>
+          </Data>
+          <Data name="Cost">
+            <value>$</value>
+          </Data>
+          <Data name="Address">
+            <value>16151 Parthenia St</value>
+          </Data>
+          <Data name="Citiy">
+            <value>North Hills</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91343.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 892-1480</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.4843506,34.22842497,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kickback Cafe</name>
+        <description><![CDATA[id: 5<br>Genre: Hookah Bars<br>Rating: 5<br>Lat: 34.2283634<br>Long: -118.5272151<br>Cost: $<br>Address: 8670 Lindley Ave<br>Citiy: Northridge<br>Zip Code: 91325<br>Country: US<br>State: CA<br>Phone: (818) 626-8878]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>5.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>Hookah Bars</value>
+          </Data>
+          <Data name="Rating">
+            <value>5.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.2283634</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.5272151</value>
+          </Data>
+          <Data name="Cost">
+            <value>$</value>
+          </Data>
+          <Data name="Address">
+            <value>8670 Lindley Ave</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Northridge</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91325.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 626-8878</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.5272151,34.2283634,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nectar</name>
+        <description><![CDATA[id: 6<br>Genre: divebars<br>Rating: 3.5<br>Lat: 34.2276186<br>Long: -118.5024651<br>Cost: $<br>Address: 8626 Balboa Blvd<br>Citiy: Northridge<br>Zip Code: 91325<br>Country: US<br>State: CA<br>Phone: ]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>6.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>divebars</value>
+          </Data>
+          <Data name="Rating">
+            <value>3.5</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.2276186</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.5024651</value>
+          </Data>
+          <Data name="Cost">
+            <value>$</value>
+          </Data>
+          <Data name="Address">
+            <value>8626 Balboa Blvd</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Northridge</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91325.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.5024651,34.2276186,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Oh Grady's]]></name>
+        <description><![CDATA[id: 7<br>Genre: divebars<br>Rating: 3.5<br>Lat: 34.2652<br>Long: -118.51872<br>Cost: $<br>Address: 17633 Chatsworth St<br>Citiy: Granada Hills<br>Zip Code: 91344<br>Country: US<br>State: CA<br>Phone: (818) 368-8424]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>7.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>divebars</value>
+          </Data>
+          <Data name="Rating">
+            <value>3.5</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.2652</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.51872</value>
+          </Data>
+          <Data name="Cost">
+            <value>$</value>
+          </Data>
+          <Data name="Address">
+            <value>17633 Chatsworth St</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Granada Hills</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91344.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 368-8424</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.51872,34.2652,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Crazy Harry's Bar]]></name>
+        <description><![CDATA[id: 8<br>Genre: Pretzels<br>Rating: 4.5<br>Lat: 34.20811117<br>Long: -118.5715556<br>Cost: $<br>Address: 20112 Saticoy St<br>Citiy: Winnetka<br>Zip Code: 91306<br>Country: US<br>State: CA<br>Phone: ]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>8.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>Pretzels</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.5</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.20811117</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.5715556</value>
+          </Data>
+          <Data name="Cost">
+            <value>$</value>
+          </Data>
+          <Data name="Address">
+            <value>20112 Saticoy St</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Winnetka</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91306.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.5715556,34.20811117,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tender Glow</name>
+        <description><![CDATA[id: 9<br>Genre: Dive Bars<br>Rating: 4<br>Lat: 34.27235076<br>Long: -118.5004955<br>Cost: $$<br>Address: 16909 San Fernndo Msn Blvd<br>Citiy: Granada Hills<br>Zip Code: 91344<br>Country: US<br>State: CA<br>Phone: (818) 363-0476]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>9.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>Dive Bars</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.27235076</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.5004955</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>16909 San Fernndo Msn Blvd</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Granada Hills</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91344.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 363-0476</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.5004955,34.27235076,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tilted Kilt</name>
+        <description><![CDATA[id: 10<br>Genre: Sports Bars<br>Rating: 3<br>Lat: 34.23489432<br>Long: -118.5611061<br>Cost: $$<br>Address: 19626 Nordhoff St<br>Citiy: Northridge<br>Zip Code: 91324<br>Country: US<br>State: CA<br>Phone: (818) 626-8647]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>10.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>Sports Bars</value>
+          </Data>
+          <Data name="Rating">
+            <value>3.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.23489432</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.5611061</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>19626 Nordhoff St</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Northridge</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91324.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 626-8647</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.5611061,34.23489432,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Yard House</name>
+        <description><![CDATA[id: 11<br>Genre: American (New)<br>Rating: 3.5<br>Lat: 34.24084523<br>Long: -118.5564642<br>Cost: $$<br>Address: 9301 Tampa Ave<br>Citiy: Northridge<br>Zip Code: 91324<br>Country: US<br>State: CA<br>Phone: (818) 721-0085]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>11.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>American (New)</value>
+          </Data>
+          <Data name="Rating">
+            <value>3.5</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.24084523</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.5564642</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>9301 Tampa Ave</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Northridge</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91324.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 721-0085</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.5564642,34.24084523,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stovepiper Lounge</name>
+        <description><![CDATA[id: 12<br>Genre: Lounges<br>Rating: 3.5<br>Lat: 34.22886632<br>Long: -118.5602106<br>Cost: $<br>Address: 19563 Parthenia St<br>Citiy: Northridge<br>Zip Code: 91324<br>Country: US<br>State: CA<br>Phone: (818) 886-2526]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>12.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>Lounges</value>
+          </Data>
+          <Data name="Rating">
+            <value>3.5</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.22886632</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.5602106</value>
+          </Data>
+          <Data name="Cost">
+            <value>$</value>
+          </Data>
+          <Data name="Address">
+            <value>19563 Parthenia St</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Northridge</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91324.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 886-2526</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.5602106,34.22886632,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Rabbit Hole</name>
+        <description><![CDATA[id: 13<br>Genre: Dive Bars<br>Rating: 4<br>Lat: 34.2197325<br>Long: -118.6085192<br>Cost: $$<br>Address: 22105 Roscoe Blvd<br>Citiy: West Hills<br>Zip Code: 91304<br>Country: US<br>State: CA<br>Phone: (747) 888-3971]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>13.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>Dive Bars</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.2197325</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.6085192</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>22105 Roscoe Blvd</value>
+          </Data>
+          <Data name="Citiy">
+            <value>West Hills</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91304.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(747) 888-3971</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.6085192,34.2197325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Geezer's Public House]]></name>
+        <description><![CDATA[id: 14<br>Genre: Gastropubs<br>Rating: 4<br>Lat: 34.1685049<br>Long: -118.6016716<br>Cost: $$<br>Address: 21733 Ventura Blvd<br>Citiy: Woodland Hills<br>Zip Code: 91364<br>Country: US<br>State: CA<br>Phone: (818) 436-2814]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>14.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>Gastropubs</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.1685049</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.6016716</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>21733 Ventura Blvd</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Woodland Hills</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91364.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 436-2814</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.6016716,34.1685049,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Norwood Bar & Lounge]]></name>
+        <description><![CDATA[id: 15<br>Genre: Bars<br>Rating: 3.5<br>Lat: 34.23535554<br>Long: -118.4852825<br>Cost: $$<br>Address: 16200 Nordhoff St<br>Citiy: North Hills<br>Zip Code: 91343<br>Country: US<br>State: CA<br>Phone: (818) 920-4574]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>15.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>Bars</value>
+          </Data>
+          <Data name="Rating">
+            <value>3.5</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.23535554</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.4852825</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>16200 Nordhoff St</value>
+          </Data>
+          <Data name="Citiy">
+            <value>North Hills</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91343.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 920-4574</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.4852825,34.23535554,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Sunny's Bikini Bar]]></name>
+        <description><![CDATA[id: 16<br>Genre: Bars<br>Rating: 3.5<br>Lat: 34.2498451<br>Long: -118.58954<br>Cost: $$<br>Address: 20922 Lassen St<br>Citiy: Chatsworth<br>Zip Code: 91311<br>Country: US<br>State: CA<br>Phone: (818) 998-6178]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>16.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>Bars</value>
+          </Data>
+          <Data name="Rating">
+            <value>3.5</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.2498451</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.58954</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>20922 Lassen St</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Chatsworth</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91311.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 998-6178</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.58954,34.2498451,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Lee's 4 Cocktails]]></name>
+        <description><![CDATA[id: 17<br>Genre: Dive Bars<br>Rating: 3<br>Lat: 34.2573951<br>Long: -118.503263<br>Cost: $<br>Address: 17040 Devonshire St<br>Citiy: Northridge<br>Zip Code: 91325<br>Country: US<br>State: CA<br>Phone: (818) 360-8893]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>17.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>Dive Bars</value>
+          </Data>
+          <Data name="Rating">
+            <value>3.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.2573951</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.503263</value>
+          </Data>
+          <Data name="Cost">
+            <value>$</value>
+          </Data>
+          <Data name="Address">
+            <value>17040 Devonshire St</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Northridge</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91325.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 360-8893</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.503263,34.2573951,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Surly Goat</name>
+        <description><![CDATA[id: 18<br>Genre: burgers<br>Rating: 3.5<br>Lat: 34.1616799<br>Long: -118.51111<br>Cost: $$<br>Address: 17337 Ventura Blvd<br>Citiy: Encino<br>Zip Code: 91316<br>Country: US<br>State: CA<br>Phone: (818) 745-5012]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>18.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>burgers</value>
+          </Data>
+          <Data name="Rating">
+            <value>3.5</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.1616799</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.51111</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>17337 Ventura Blvd</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Encino</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91316.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 745-5012</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.51111,34.1616799,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Bunker</name>
+        <description><![CDATA[id: 19<br>Genre: divebars<br>Rating: 4<br>Lat: 34.1999524<br>Long: -118.5274681<br>Cost: $<br>Address: 7117 Lindley Ave<br>Citiy: Reseda<br>Zip Code: 91335<br>Country: US<br>State: CA<br>Phone: (818) 705-9201]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>19.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>divebars</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.1999524</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.5274681</value>
+          </Data>
+          <Data name="Cost">
+            <value>$</value>
+          </Data>
+          <Data name="Address">
+            <value>7117 Lindley Ave</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Reseda</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91335.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 705-9201</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.5274681,34.1999524,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dark Horse Tavern</name>
+        <description><![CDATA[id: 20<br>Genre: newamerican<br>Rating: 4<br>Lat: 34.170097<br>Long: -118.536384<br>Cost: $$<br>Address: 5507 Reseda Blvd<br>Citiy: Los Angeles<br>Zip Code: 91356<br>Country: US<br>State: CA<br>Phone: (818) 881-8328]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>20.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>newamerican</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.170097</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.536384</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>5507 Reseda Blvd</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Los Angeles</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91356.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 881-8328</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.536384,34.170097,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Woodley Proper</name>
+        <description><![CDATA[id: 21<br>Genre: tradamerican<br>Rating: 4.5<br>Lat: 34.15721251<br>Long: -118.4838483<br>Cost: $$$<br>Address: 16101 Ventura Blvd<br>Citiy: Encino<br>Zip Code: 91436<br>Country: US<br>State: CA<br>Phone: (818) 906-9775]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>21.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>tradamerican</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.5</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.15721251</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.4838483</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$$</value>
+          </Data>
+          <Data name="Address">
+            <value>16101 Ventura Blvd</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Encino</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91436.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 906-9775</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.4838483,34.15721251,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Copper Bucket</name>
+        <description><![CDATA[id: 22<br>Genre: divebars<br>Rating: 4<br>Lat: 34.1941556<br>Long: -118.5191055<br>Cost: $<br>Address: 17715 Vanowen St<br>Citiy: Reseda<br>Zip Code: 91335<br>Country: US<br>State: CA<br>Phone: (818) 344-3334]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>22.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>divebars</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.1941556</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.5191055</value>
+          </Data>
+          <Data name="Cost">
+            <value>$</value>
+          </Data>
+          <Data name="Address">
+            <value>17715 Vanowen St</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Reseda</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91335.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 344-3334</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.5191055,34.1941556,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Carlito's Way Cocktails]]></name>
+        <description><![CDATA[id: 23<br>Genre: divebars<br>Rating: 4<br>Lat: 34.18627<br>Long: -118.46533<br>Cost: $<br>Address: 15238 Victory Blvd<br>Citiy: Van Nuys<br>Zip Code: 91411<br>Country: US<br>State: CA<br>Phone: (818) 997-1241]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>23.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>divebars</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.18627</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.46533</value>
+          </Data>
+          <Data name="Cost">
+            <value>$</value>
+          </Data>
+          <Data name="Address">
+            <value>15238 Victory Blvd</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Van Nuys</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91411.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 997-1241</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.46533,34.18627,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clipper Club Lounge and Bar</name>
+        <description><![CDATA[id: 24<br>Genre: sportsbars<br>Rating: 4.5<br>Lat: 34.20186905<br>Long: -118.4866826<br>Cost: $$<br>Address: 7277 Valjean Ave<br>Citiy: Van Nuys<br>Zip Code: 91406<br>Country: US<br>State: CA<br>Phone: (818) 997-7676]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>24.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>sportsbars</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.5</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.20186905</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.4866826</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>7277 Valjean Ave</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Van Nuys</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91406.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 997-7676</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.4866826,34.20186905,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Mr Furley's Bar]]></name>
+        <description><![CDATA[id: 25<br>Genre: pubs<br>Rating: 4<br>Lat: 34.15163203<br>Long: -118.4525361<br>Cost: $<br>Address: 14649 Ventura Blvd<br>Citiy: Sherman Oaks<br>Zip Code: 91403<br>Country: US<br>State: CA<br>Phone: (818) 453-8923]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>25.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>pubs</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.15163203</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.4525361</value>
+          </Data>
+          <Data name="Cost">
+            <value>$</value>
+          </Data>
+          <Data name="Address">
+            <value>14649 Ventura Blvd</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Sherman Oaks</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91403.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 453-8923</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.4525361,34.15163203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Pogo's]]></name>
+        <description><![CDATA[id: 26<br>Genre: divebars<br>Rating: 4<br>Lat: 34.20818608<br>Long: -118.5104805<br>Cost: $<br>Address: 17314 Saticoy St<br>Citiy: Van Nuys<br>Zip Code: 91406<br>Country: US<br>State: CA<br>Phone: (818) 705-5344]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>26.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>divebars</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.20818608</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.5104805</value>
+          </Data>
+          <Data name="Cost">
+            <value>$</value>
+          </Data>
+          <Data name="Address">
+            <value>17314 Saticoy St</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Van Nuys</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91406.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 705-5344</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.5104805,34.20818608,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Springbok Bar & Grill]]></name>
+        <description><![CDATA[id: 27<br>Genre: sportsbars<br>Rating: 4<br>Lat: 34.18700874<br>Long: -118.485503<br>Cost: $$<br>Address: 16153 Victory Blvd<br>Citiy: Van Nuys<br>Zip Code: 91406<br>Country: US<br>State: CA<br>Phone: (818) 988-9786]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>27.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>sportsbars</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.18700874</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.485503</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>16153 Victory Blvd</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Van Nuys</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91406.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 988-9786</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.485503,34.18700874,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Maui Sugar Mill Saloon</name>
+        <description><![CDATA[id: 28<br>Genre: divebars<br>Rating: 4<br>Lat: 34.1679947<br>Long: -118.5337307<br>Cost: $$<br>Address: 18389 Ventura Blvd<br>Citiy: Tarzana<br>Zip Code: 91356<br>Country: US<br>State: CA<br>Phone: (818) 344-0034]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>28.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>divebars</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.1679947</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.5337307</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>18389 Ventura Blvd</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Tarzana</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91356.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 344-0034</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.5337307,34.1679947,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Scratch Bar & Kitchen]]></name>
+        <description><![CDATA[id: 29<br>Genre: newamerican<br>Rating: 4.5<br>Lat: 34.15705348<br>Long: -118.4839871<br>Cost: $$$<br>Address: 16101 Ventura Blvd<br>Citiy: Encino<br>Zip Code: 91436<br>Country: US<br>State: CA<br>Phone: (818) 646-6085]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>29.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>newamerican</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.5</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.15705348</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.4839871</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$$</value>
+          </Data>
+          <Data name="Address">
+            <value>16101 Ventura Blvd</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Encino</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91436.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 646-6085</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.4839871,34.15705348,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>W8 BAR</name>
+        <description><![CDATA[id: 30<br>Genre: lounges<br>Rating: 4<br>Lat: 34.16319656<br>Long: -118.519783<br>Cost: $$$<br>Address: 17777 Ventura Blvd<br>Citiy: Encino<br>Zip Code: 91316<br>Country: US<br>State: CA<br>Phone: (949) 278-6229]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>30.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>lounges</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.16319656</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.519783</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$$</value>
+          </Data>
+          <Data name="Address">
+            <value>17777 Ventura Blvd</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Encino</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91316.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(949) 278-6229</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.519783,34.16319656,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>the Sherman</name>
+        <description><![CDATA[id: 31<br>Genre: cocktailbars<br>Rating: 4<br>Lat: 34.1517868<br>Long: -118.452034<br>Cost: $$<br>Address: 14633 Ventura Blvd<br>Citiy: Los Angeles<br>Zip Code: 91403<br>Country: US<br>State: CA<br>Phone: (818) 485-2200]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>31.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>cocktailbars</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.1517868</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.452034</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>14633 Ventura Blvd</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Los Angeles</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91403.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 485-2200</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.452034,34.1517868,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A Simple Bar</name>
+        <description><![CDATA[id: 32<br>Genre: bars<br>Rating: 5<br>Lat: 34.1299<br>Long: -118.34882<br>Cost: $$<br>Address: 3256 Cahuenga Blvd W<br>Citiy: Los Angeles<br>Zip Code: 90068<br>Country: US<br>State: CA<br>Phone: (323) 378-5388]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>32.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>bars</value>
+          </Data>
+          <Data name="Rating">
+            <value>5.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.1299</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.34882</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>3256 Cahuenga Blvd W</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Los Angeles</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>90068.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(323) 378-5388</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.34882,34.1299,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>American Legion Post 817</name>
+        <description><![CDATA[id: 33<br>Genre: divebars<br>Rating: 5<br>Lat: 34.222538<br>Long: -118.428131<br>Cost: $<br>Address: 13553 Reedley St<br>Citiy: Los Angeles<br>Zip Code: 91402<br>Country: US<br>State: CA<br>Phone: ]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>33.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>divebars</value>
+          </Data>
+          <Data name="Rating">
+            <value>5.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.222538</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.428131</value>
+          </Data>
+          <Data name="Cost">
+            <value>$</value>
+          </Data>
+          <Data name="Address">
+            <value>13553 Reedley St</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Los Angeles</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91402.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.428131,34.222538,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Blue Dog Beer Tavern</name>
+        <description><![CDATA[id: 34<br>Genre: burgers<br>Rating: 4<br>Lat: 34.151968<br>Long: -118.466032<br>Cost: $$<br>Address: 4524 Saugus Ave<br>Citiy: Sherman Oaks<br>Zip Code: 91403<br>Country: US<br>State: CA<br>Phone: (818) 990-2583]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>34.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>burgers</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.151968</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.466032</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>4524 Saugus Ave</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Sherman Oaks</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91403.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 990-2583</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.466032,34.151968,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Casey's Tavern]]></name>
+        <description><![CDATA[id: 35<br>Genre: divebars<br>Rating: 4<br>Lat: 34.201305<br>Long: -118.607091<br>Cost: $<br>Address: 22029 Sherman Wy<br>Citiy: Canoga Park<br>Zip Code: 91303<br>Country: US<br>State: CA<br>Phone: (818) 992-9362]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>35.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>divebars</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.201305</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.607091</value>
+          </Data>
+          <Data name="Cost">
+            <value>$</value>
+          </Data>
+          <Data name="Address">
+            <value>22029 Sherman Wy</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Canoga Park</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91303.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 992-9362</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.607091,34.201305,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Catcher In the Rye</name>
+        <description><![CDATA[id: 36<br>Genre: cocktailbars<br>Rating: 4<br>Lat: 34.1520047<br>Long: -118.360824<br>Cost: $$<br>Address: 10550 Riverside Dr<br>Citiy: Los Angeles<br>Zip Code: 91602<br>Country: US<br>State: CA<br>Phone: (818) 853-7835]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>36.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>cocktailbars</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.1520047</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.360824</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>10550 Riverside Dr</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Los Angeles</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91602.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 853-7835</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.360824,34.1520047,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Davenport's Restaurant]]></name>
+        <description><![CDATA[id: 37<br>Genre: cocktailbars<br>Rating: 5<br>Lat: 34.1563218<br>Long: -118.4844206<br>Cost: $$<br>Address: 16120 Ventura Blvd<br>Citiy: Encino<br>Zip Code: 91436<br>Country: US<br>State: CA<br>Phone: (818) 855-1203]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>37.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>cocktailbars</value>
+          </Data>
+          <Data name="Rating">
+            <value>5.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.1563218</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.4844206</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>16120 Ventura Blvd</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Encino</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91436.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 855-1203</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.4844206,34.1563218,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dirty Bull Tavern</name>
+        <description><![CDATA[id: 38<br>Genre: sportsbars<br>Rating: 4<br>Lat: 34.16964232<br>Long: -118.60216<br>Cost: $$<br>Address: 21797 Ventura Blvd<br>Citiy: Woodland Hills<br>Zip Code: 91364<br>Country: US<br>State: CA<br>Phone: (818) 610-8308]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>38.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>sportsbars</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.16964232</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.60216</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>21797 Ventura Blvd</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Woodland Hills</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91364.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 610-8308</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.60216,34.16964232,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>District Pub</name>
+        <description><![CDATA[id: 39<br>Genre: burgers<br>Rating: 4.5<br>Lat: 34.166022<br>Long: -118.375615<br>Cost: $$<br>Address: 5249 Lankershim Blvd<br>Citiy: North Hollywood<br>Zip Code: 91601<br>Country: US<br>State: CA<br>Phone: (818) 732-7319]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>39.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>burgers</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.5</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.166022</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.375615</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>5249 Lankershim Blvd</value>
+          </Data>
+          <Data name="Citiy">
+            <value>North Hollywood</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91601.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 732-7319</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.375615,34.166022,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>El Tejano</name>
+        <description><![CDATA[id: 40<br>Genre: divebars<br>Rating: 3.5<br>Lat: 34.16464<br>Long: -118.37328<br>Cost: $$<br>Address: 11122 W Magnolia Blvd<br>Citiy: North Hollywood<br>Zip Code: 91601<br>Country: US<br>State: CA<br>Phone: (818) 985-8787]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>40.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>divebars</value>
+          </Data>
+          <Data name="Rating">
+            <value>3.5</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.16464</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.37328</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>11122 W Magnolia Blvd</value>
+          </Data>
+          <Data name="Citiy">
+            <value>North Hollywood</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91601.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 985-8787</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.37328,34.16464,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Eureka!</name>
+        <description><![CDATA[id: 41<br>Genre: bars<br>Rating: 4<br>Lat: 34.18393574<br>Long: -118.6053039<br>Cost: $$<br>Address: 6250 Topanga Canyon Blvd<br>Citiy: Los Angeles<br>Zip Code: 91367<br>Country: US<br>State: CA<br>Phone: (818) 857-5544]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>41.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>bars</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.18393574</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.6053039</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>6250 Topanga Canyon Blvd</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Los Angeles</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91367.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 857-5544</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.6053039,34.18393574,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Foxfire Room</name>
+        <description><![CDATA[id: 42<br>Genre: divebars<br>Rating: 4<br>Lat: 34.1647351<br>Long: -118.40592<br>Cost: $<br>Address: 12516 Magnolia Blvd<br>Citiy: Valley Village<br>Zip Code: 91607<br>Country: US<br>State: CA<br>Phone: (818) 766-1344]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>42.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>divebars</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.1647351</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.40592</value>
+          </Data>
+          <Data name="Cost">
+            <value>$</value>
+          </Data>
+          <Data name="Address">
+            <value>12516 Magnolia Blvd</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Valley Village</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91607.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 766-1344</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.40592,34.1647351,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Golden Sky</name>
+        <description><![CDATA[id: 43<br>Genre: beerbar<br>Rating: 3<br>Lat: 34.186977<br>Long: -118.447376<br>Cost: $$<br>Address: 14429 Victory Blvd<br>Citiy: Van Nuys<br>Zip Code: 91401<br>Country: US<br>State: CA<br>Phone: (818) 785-9888]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>43.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>beerbar</value>
+          </Data>
+          <Data name="Rating">
+            <value>3.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.186977</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.447376</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>14429 Victory Blvd</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Van Nuys</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91401.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 785-9888</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.447376,34.186977,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Granada Hookah Lounge</name>
+        <description><![CDATA[id: 44<br>Genre: hookah_bars<br>Rating: 5<br>Lat: 34.26518<br>Long: -118.51633<br>Cost: $$<br>Address: 17527 Chatsworth St<br>Citiy: Los Angeles<br>Zip Code: 91344<br>Country: US<br>State: CA<br>Phone: (818) 360-3601]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>44.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>hookah_bars</value>
+          </Data>
+          <Data name="Rating">
+            <value>5.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.26518</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.51633</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>17527 Chatsworth St</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Los Angeles</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91344.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 360-3601</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.51633,34.26518,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GuildHall</name>
+        <description><![CDATA[id: 45<br>Genre: comfortfood<br>Rating: 4.5<br>Lat: 34.18446<br>Long: -118.34987<br>Cost: $$<br>Address: 3516 W Victory Blvd<br>Citiy: Burbank<br>Zip Code: 91505<br>Country: US<br>State: CA<br>Phone: (818) 561-4552]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>45.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>comfortfood</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.5</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.18446</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.34987</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>3516 W Victory Blvd</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Burbank</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91505.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 561-4552</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.34987,34.18446,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hamptons 818</name>
+        <description><![CDATA[id: 46<br>Genre: breakfast_brunch<br>Rating: 4<br>Lat: 34.15276<br>Long: -118.4581<br>Cost: $$<br>Address: 14917 Ventura Blvd<br>Citiy: Sherman Oaks<br>Zip Code: 91403<br>Country: US<br>State: CA<br>Phone: (818) 501-2700]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>46.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>breakfast_brunch</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.15276</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.4581</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>14917 Ventura Blvd</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Sherman Oaks</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91403.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 501-2700</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.4581,34.15276,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>House Roots Coffee</name>
+        <description><![CDATA[id: 47<br>Genre: coffee<br>Rating: 5<br>Lat: 34.2720549<br>Long: -118.4843871<br>Cost: $<br>Address: 16155 San Fernando Mission Blvd<br>Citiy: Granada Hills<br>Zip Code: 91344<br>Country: US<br>State: CA<br>Phone: ]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>47.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>coffee</value>
+          </Data>
+          <Data name="Rating">
+            <value>5.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.2720549</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.4843871</value>
+          </Data>
+          <Data name="Cost">
+            <value>$</value>
+          </Data>
+          <Data name="Address">
+            <value>16155 San Fernando Mission Blvd</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Granada Hills</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91344.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.4843871,34.2720549,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HQ Gastropub</name>
+        <description><![CDATA[id: 48<br>Genre: gastropubs<br>Rating: 4<br>Lat: 34.16682583<br>Long: -118.5906479<br>Cost: $$<br>Address: 20969 Ventura Blvd<br>Citiy: Woodland Hills<br>Zip Code: 91364<br>Country: US<br>State: CA<br>Phone: (818) 887-2337]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>48.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>gastropubs</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.16682583</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.5906479</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>20969 Ventura Blvd</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Woodland Hills</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91364.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 887-2337</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.5906479,34.16682583,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Instant Replay</name>
+        <description><![CDATA[id: 49<br>Genre: divebars<br>Rating: 4.5<br>Lat: 34.2084349<br>Long: -118.605545<br>Cost: $<br>Address: 21927 Saticoy St<br>Citiy: Canoga Park<br>Zip Code: 91304<br>Country: US<br>State: CA<br>Phone: (818) 712-0628]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>49.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>divebars</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.5</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.2084349</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.605545</value>
+          </Data>
+          <Data name="Cost">
+            <value>$</value>
+          </Data>
+          <Data name="Address">
+            <value>21927 Saticoy St</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Canoga Park</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91304.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 712-0628</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.605545,34.2084349,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Ireland's 32]]></name>
+        <description><![CDATA[id: 50<br>Genre: divebars<br>Rating: 4<br>Lat: 34.17241<br>Long: -118.43215<br>Cost: $$<br>Address: 13721 Burbank Blvd<br>Citiy: Van Nuys<br>Zip Code: 91401<br>Country: US<br>State: CA<br>Phone: (818) 785-4031]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>50.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>divebars</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.17241</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.43215</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>13721 Burbank Blvd</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Van Nuys</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91401.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 785-4031</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.43215,34.17241,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[JJ Sullivan's Irish Pub]]></name>
+        <description><![CDATA[id: 51<br>Genre: irish<br>Rating: 4.5<br>Lat: 34.165491<br>Long: -118.626034<br>Cost: $<br>Address: 22917 Ventura Blvd<br>Citiy: Woodland Hills<br>Zip Code: 91364<br>Country: US<br>State: CA<br>Phone: (818) 225-7468]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>51.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>irish</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.5</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.165491</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.626034</value>
+          </Data>
+          <Data name="Cost">
+            <value>$</value>
+          </Data>
+          <Data name="Address">
+            <value>22917 Ventura Blvd</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Woodland Hills</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91364.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 225-7468</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.626034,34.165491,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>JOEY Woodland Hills</name>
+        <description><![CDATA[id: 52<br>Genre: newamerican<br>Rating: 4<br>Lat: 34.1861879<br>Long: -118.6052378<br>Cost: $$<br>Address: 6344 Topanga Canyon Blvd<br>Citiy: Woodland Hills<br>Zip Code: 91367<br>Country: US<br>State: CA<br>Phone: (818) 340-5639]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>52.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>newamerican</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.1861879</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.6052378</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>6344 Topanga Canyon Blvd</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Woodland Hills</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91367.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 340-5639</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.6052378,34.1861879,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Jug Jug Sports Bar & Restaurant]]></name>
+        <description><![CDATA[id: 53<br>Genre: sportsbars<br>Rating: 3.5<br>Lat: 34.28700238<br>Long: -118.5020059<br>Cost: $$<br>Address: 11908 Balboa Blvd<br>Citiy: Granada Hills<br>Zip Code: 91344<br>Country: US<br>State: CA<br>Phone: (818) 366-1222]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>53.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>sportsbars</value>
+          </Data>
+          <Data name="Rating">
+            <value>3.5</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.28700238</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.5020059</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>11908 Balboa Blvd</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Granada Hills</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91344.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 366-1222</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.5020059,34.28700238,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>La Jungla</name>
+        <description><![CDATA[id: 54<br>Genre: lounges<br>Rating: 3<br>Lat: 34.225507<br>Long: -118.467017<br>Cost: $$<br>Address: 8532 Sepulveda Blvd<br>Citiy: North Hills<br>Zip Code: 91343<br>Country: US<br>State: CA<br>Phone: (818) 794-0105]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>54.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>lounges</value>
+          </Data>
+          <Data name="Rating">
+            <value>3.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.225507</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.467017</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>8532 Sepulveda Blvd</value>
+          </Data>
+          <Data name="Citiy">
+            <value>North Hills</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91343.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 794-0105</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.467017,34.225507,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Lakeside Restaurant & Lounge]]></name>
+        <description><![CDATA[id: 55<br>Genre: newamerican<br>Rating: 4<br>Lat: 34.1591812<br>Long: -118.4992437<br>Cost: $$<br>Address: 16817 Ventura Blvd<br>Citiy: Los Angeles<br>Zip Code: 91436<br>Country: US<br>State: CA<br>Phone: (818) 616-2430]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>55.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>newamerican</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.1591812</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.4992437</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>16817 Ventura Blvd</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Los Angeles</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91436.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 616-2430</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.4992437,34.1591812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lane 33</name>
+        <description><![CDATA[id: 56<br>Genre: karaoke<br>Rating: 5<br>Lat: 34.19300409<br>Long: -118.5721099<br>Cost: $$<br>Address: 20122 Vanowen St<br>Citiy: Winnetka<br>Zip Code: 91306<br>Country: US<br>State: CA<br>Phone: (818) 340-5190]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>56.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>karaoke</value>
+          </Data>
+          <Data name="Rating">
+            <value>5.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.19300409</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.5721099</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>20122 Vanowen St</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Winnetka</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91306.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 340-5190</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.5721099,34.19300409,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Laurel Tavern</name>
+        <description><![CDATA[id: 57<br>Genre: gastropubs<br>Rating: 4<br>Lat: 34.142957<br>Long: -118.392107<br>Cost: $$<br>Address: 11938 Ventura Blvd<br>Citiy: Studio City<br>Zip Code: 91604<br>Country: US<br>State: CA<br>Phone: (818) 506-0777]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>57.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>gastropubs</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.142957</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.392107</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>11938 Ventura Blvd</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Studio City</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91604.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 506-0777</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.392107,34.142957,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Liquid Zoo</name>
+        <description><![CDATA[id: 58<br>Genre: bars<br>Rating: 3<br>Lat: 34.20180511<br>Long: -118.4658279<br>Cost: $<br>Address: 7214 Sepulveda Blvd<br>Citiy: Van Nuys<br>Zip Code: 91497<br>Country: US<br>State: CA<br>Phone: (818) 997-3818]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>58.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>bars</value>
+          </Data>
+          <Data name="Rating">
+            <value>3.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.20180511</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.4658279</value>
+          </Data>
+          <Data name="Cost">
+            <value>$</value>
+          </Data>
+          <Data name="Address">
+            <value>7214 Sepulveda Blvd</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Van Nuys</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91497.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 997-3818</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.4658279,34.20180511,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Los Tres Hermanos</name>
+        <description><![CDATA[id: 59<br>Genre: mexican<br>Rating: 4<br>Lat: 34.1843<br>Long: -118.44915<br>Cost: $$<br>Address: 6269 Van Nuys Blvd<br>Citiy: Van Nuys<br>Zip Code: 91401<br>Country: US<br>State: CA<br>Phone: (818) 786-7600]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>59.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>mexican</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.1843</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.44915</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>6269 Van Nuys Blvd</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Van Nuys</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91401.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 786-7600</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.44915,34.1843,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MacLeod Ale Brewing</name>
+        <description><![CDATA[id: 60<br>Genre: breweries<br>Rating: 4.5<br>Lat: 34.18194<br>Long: -118.45458<br>Cost: $<br>Address: 14741 Calvert St<br>Citiy: Van Nuys<br>Zip Code: 91411<br>Country: US<br>State: CA<br>Phone: (818) 631-1963]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>60.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>breweries</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.5</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.18194</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.45458</value>
+          </Data>
+          <Data name="Cost">
+            <value>$</value>
+          </Data>
+          <Data name="Address">
+            <value>14741 Calvert St</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Van Nuys</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91411.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 631-1963</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.45458,34.18194,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>No Bar</name>
+        <description><![CDATA[id: 61<br>Genre: divebars<br>Rating: 3.5<br>Lat: 34.164657<br>Long: -118.362457<br>Cost: $<br>Address: 10622 Magnolia Blvd<br>Citiy: North Hollywood<br>Zip Code: 91601<br>Country: US<br>State: CA<br>Phone: (818) 753-0545]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>61.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>divebars</value>
+          </Data>
+          <Data name="Rating">
+            <value>3.5</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.164657</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.362457</value>
+          </Data>
+          <Data name="Cost">
+            <value>$</value>
+          </Data>
+          <Data name="Address">
+            <value>10622 Magnolia Blvd</value>
+          </Data>
+          <Data name="Citiy">
+            <value>North Hollywood</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91601.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 753-0545</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.362457,34.164657,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>On The Thirty</name>
+        <description><![CDATA[id: 62<br>Genre: newamerican<br>Rating: 4<br>Lat: 34.151226<br>Long: -118.452188<br>Cost: $$<br>Address: 14622 Ventura Blvd<br>Citiy: Sherman Oaks<br>Zip Code: 91403<br>Country: US<br>State: CA<br>Phone: (818) 788-0330]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>62.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>newamerican</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.151226</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.452188</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>14622 Ventura Blvd</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Sherman Oaks</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91403.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 788-0330</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.452188,34.151226,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Paul's Tavern]]></name>
+        <description><![CDATA[id: 63<br>Genre: divebars<br>Rating: 4<br>Lat: 34.2645771<br>Long: -118.468294<br>Cost: $<br>Address: 15425 Chatsworth St<br>Citiy: Los Angeles<br>Zip Code: 91345<br>Country: US<br>State: CA<br>Phone: (818) 891-4848]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>63.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>divebars</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.2645771</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.468294</value>
+          </Data>
+          <Data name="Cost">
+            <value>$</value>
+          </Data>
+          <Data name="Address">
+            <value>15425 Chatsworth St</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Los Angeles</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91345.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 891-4848</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.468294,34.2645771,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Petie's Place]]></name>
+        <description><![CDATA[id: 64<br>Genre: sportsbars<br>Rating: 4<br>Lat: 34.17926<br>Long: -118.536758<br>Cost: $$<br>Address: 6025 Reseda Blvd<br>Citiy: Tarzana<br>Zip Code: 91356<br>Country: US<br>State: CA<br>Phone: (818) 708-7773]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>64.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>sportsbars</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.17926</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.536758</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>6025 Reseda Blvd</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Tarzana</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91356.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 708-7773</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.536758,34.17926,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pickwick Pub</name>
+        <description><![CDATA[id: 65<br>Genre: pubs<br>Rating: 4<br>Lat: 34.166521<br>Long: -118.5913129<br>Cost: $$<br>Address: 21010 Ventura Blvd<br>Citiy: Woodland Hills<br>Zip Code: 91364<br>Country: US<br>State: CA<br>Phone: (818) 340-9673]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>65.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>pubs</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.166521</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.5913129</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>21010 Ventura Blvd</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Woodland Hills</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91364.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 340-9673</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.5913129,34.166521,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Pineapple Hill Saloon & Grill]]></name>
+        <description><![CDATA[id: 66<br>Genre: bars<br>Rating: 4<br>Lat: 34.15244291<br>Long: -118.4472853<br>Cost: $$<br>Address: 4454 Van Nuys Blvd<br>Citiy: Sherman Oaks<br>Zip Code: 91403<br>Country: US<br>State: CA<br>Phone: (818) 789-0679]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>66.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>bars</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.15244291</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.4472853</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>4454 Van Nuys Blvd</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Sherman Oaks</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91403.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 789-0679</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.4472853,34.15244291,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Play It Loud</name>
+        <description><![CDATA[id: 67<br>Genre: venues<br>Rating: 5<br>Lat: 34.16688778<br>Long: -118.5870485<br>Cost: $$<br>Address: 20847 Ventura Blvd<br>Citiy: Los Angeles<br>Zip Code: 91364<br>Country: US<br>State: CA<br>Phone: (818) 914-4407]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>67.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>venues</value>
+          </Data>
+          <Data name="Rating">
+            <value>5.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.16688778</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.5870485</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>20847 Ventura Blvd</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Los Angeles</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91364.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 914-4407</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.5870485,34.16688778,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Public School        </name>
+        <description><![CDATA[id: 68<br>Genre: gastropubs<br>Rating: 3.5<br>Lat: 34.15347412<br>Long: -118.4664801<br>Cost: $$<br>Address: 15300 Ventura Blvd<br>Citiy: Sherman Oaks<br>Zip Code: 91403<br>Country: US<br>State: CA<br>Phone: (818) 728-9818]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>68.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>gastropubs</value>
+          </Data>
+          <Data name="Rating">
+            <value>3.5</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.15347412</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.4664801</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>15300 Ventura Blvd</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Sherman Oaks</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91403.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 728-9818</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.4664801,34.15347412,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Public School 818</name>
+        <description><![CDATA[id: 69<br>Genre: gastropubs<br>Rating: 3.5<br>Lat: 34.15347412<br>Long: -118.4664801<br>Cost: $$<br>Address: 15300 Ventura Blvd<br>Citiy: Sherman Oaks<br>Zip Code: 91403<br>Country: US<br>State: CA<br>Phone: (818) 728-9818]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>69.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>gastropubs</value>
+          </Data>
+          <Data name="Rating">
+            <value>3.5</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.15347412</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.4664801</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>15300 Ventura Blvd</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Sherman Oaks</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91403.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 728-9818</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.4664801,34.15347412,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Q Martini Bar</name>
+        <description><![CDATA[id: 70<br>Genre: lounges<br>Rating: 4<br>Lat: 34.1785011<br>Long: -118.6037292<br>Cost: $$<br>Address: 21850 Oxnard St<br>Citiy: Woodland Hls<br>Zip Code: 91367<br>Country: US<br>State: CA<br>Phone: (818) 887-4800]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>70.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>lounges</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.1785011</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.6037292</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>21850 Oxnard St</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Woodland Hls</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91367.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 887-4800</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.6037292,34.1785011,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Residuals Tavern</name>
+        <description><![CDATA[id: 71<br>Genre: bars<br>Rating: 4.5<br>Lat: 34.1405792<br>Long: -118.3714905<br>Cost: $<br>Address: 11042 Ventura Blvd<br>Citiy: Studio City<br>Zip Code: 91604<br>Country: US<br>State: CA<br>Phone: (818) 761-8301]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>71.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>bars</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.5</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.1405792</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.3714905</value>
+          </Data>
+          <Data name="Cost">
+            <value>$</value>
+          </Data>
+          <Data name="Address">
+            <value>11042 Ventura Blvd</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Studio City</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91604.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 761-8301</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.3714905,34.1405792,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Safari Room</name>
+        <description><![CDATA[id: 72<br>Genre: steak<br>Rating: 3.5<br>Lat: 34.25701<br>Long: -118.46844<br>Cost: $$<br>Address: 15426 Devonshire St<br>Citiy: Mission Hills<br>Zip Code: 91345<br>Country: US<br>State: CA<br>Phone: (818) 893-9768]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>72.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>steak</value>
+          </Data>
+          <Data name="Rating">
+            <value>3.5</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.25701</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.46844</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>15426 Devonshire St</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Mission Hills</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91345.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 893-9768</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.46844,34.25701,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>San Fernando Brewing Company</name>
+        <description><![CDATA[id: 73<br>Genre: breweries<br>Rating: 4.5<br>Lat: 34.28311956<br>Long: -118.4318564<br>Cost: $<br>Address: 425 Park Ave<br>Citiy: San Fernando<br>Zip Code: 91340<br>Country: US<br>State: CA<br>Phone: (818) 745-6175]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>73.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>breweries</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.5</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.28311956</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.4318564</value>
+          </Data>
+          <Data name="Cost">
+            <value>$</value>
+          </Data>
+          <Data name="Address">
+            <value>425 Park Ave</value>
+          </Data>
+          <Data name="Citiy">
+            <value>San Fernando</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91340.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 745-6175</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.4318564,34.28311956,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Schoonerville Bar & Grill]]></name>
+        <description><![CDATA[id: 74<br>Genre: sportsbars<br>Rating: 4.5<br>Lat: 34.23201293<br>Long: -118.5889605<br>Cost: $$<br>Address: 8901 De Soto Ave<br>Citiy: Los Angeles<br>Zip Code: 91304<br>Country: US<br>State: CA<br>Phone: (818) 527-1231]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>74.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>sportsbars</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.5</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.23201293</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.5889605</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>8901 De Soto Ave</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Los Angeles</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91304.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 527-1231</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.5889605,34.23201293,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Scotland Yard</name>
+        <description><![CDATA[id: 75<br>Genre: pubs<br>Rating: 3.5<br>Lat: 34.2011949<br>Long: -118.6072624<br>Cost: $<br>Address: 22041 Sherman Way<br>Citiy: Canoga Park<br>Zip Code: 91303<br>Country: US<br>State: CA<br>Phone: (818) 703-9523]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>75.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>pubs</value>
+          </Data>
+          <Data name="Rating">
+            <value>3.5</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.2011949</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.6072624</value>
+          </Data>
+          <Data name="Cost">
+            <value>$</value>
+          </Data>
+          <Data name="Address">
+            <value>22041 Sherman Way</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Canoga Park</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91303.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 703-9523</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.6072624,34.2011949,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SOCA</name>
+        <description><![CDATA[id: 76<br>Genre: cocktailbars<br>Rating: 4<br>Lat: 34.1492786<br>Long: -118.4379772<br>Cost: $$$<br>Address: 14015 Ventura Blvd<br>Citiy: Los Angeles<br>Zip Code: 91423<br>Country: US<br>State: CA<br>Phone: (818) 301-4300]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>76.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>cocktailbars</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.1492786</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.4379772</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$$</value>
+          </Data>
+          <Data name="Address">
+            <value>14015 Ventura Blvd</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Los Angeles</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91423.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 301-4300</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.4379772,34.1492786,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sol y Luna</name>
+        <description><![CDATA[id: 77<br>Genre: mexican<br>Rating: 4<br>Lat: 34.17308<br>Long: -118.56021<br>Cost: $$<br>Address: 19601 Ventura Blvd<br>Citiy: Tarzana<br>Zip Code: 91357<br>Country: US<br>State: CA<br>Phone: (818) 343-8488]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>77.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>mexican</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.17308</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.56021</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>19601 Ventura Blvd</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Tarzana</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91357.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 343-8488</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.56021,34.17308,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sugar Suite</name>
+        <description><![CDATA[id: 78<br>Genre: bars<br>Rating: 3.5<br>Lat: 34.28568651<br>Long: -118.5008067<br>Cost: $<br>Address: 11858 Balboa Blvd<br>Citiy: Granada Hills<br>Zip Code: 91344<br>Country: US<br>State: CA<br>Phone: (818) 366-9600]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>78.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>bars</value>
+          </Data>
+          <Data name="Rating">
+            <value>3.5</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.28568651</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.5008067</value>
+          </Data>
+          <Data name="Cost">
+            <value>$</value>
+          </Data>
+          <Data name="Address">
+            <value>11858 Balboa Blvd</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Granada Hills</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91344.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 366-9600</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.5008067,34.28568651,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sushi Nakamura</name>
+        <description><![CDATA[id: 79<br>Genre: sushi<br>Rating: 5<br>Lat: 34.157949<br>Long: -118.4943017<br>Cost: $$$<br>Address: 16573 Ventura Blvd<br>Citiy: Encino<br>Zip Code: 91436<br>Country: US<br>State: CA<br>Phone: (747) 998-5298]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>79.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>sushi</value>
+          </Data>
+          <Data name="Rating">
+            <value>5.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.157949</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.4943017</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$$</value>
+          </Data>
+          <Data name="Address">
+            <value>16573 Ventura Blvd</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Encino</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91436.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(747) 998-5298</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.4943017,34.157949,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The BackRoom</name>
+        <description><![CDATA[id: 80<br>Genre: comedyclubs<br>Rating: 5<br>Lat: 34.20135<br>Long: -118.6004<br>Cost: $$<br>Address: 21601 Sherman Way<br>Citiy: Canoga Park<br>Zip Code: 91303<br>Country: US<br>State: CA<br>Phone: (818) 348-5582]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>80.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>comedyclubs</value>
+          </Data>
+          <Data name="Rating">
+            <value>5.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.20135</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.6004</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>21601 Sherman Way</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Canoga Park</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91303.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 348-5582</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.6004,34.20135,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Barrel</name>
+        <description><![CDATA[id: 81<br>Genre: divebars<br>Rating: 3<br>Lat: 34.15439<br>Long: -118.44906<br>Cost: $<br>Address: 4547 Van Nuys Blvd<br>Citiy: Sherman Oaks<br>Zip Code: 91403<br>Country: US<br>State: CA<br>Phone: (818) 990-2095]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>81.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>divebars</value>
+          </Data>
+          <Data name="Rating">
+            <value>3.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.15439</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.44906</value>
+          </Data>
+          <Data name="Cost">
+            <value>$</value>
+          </Data>
+          <Data name="Address">
+            <value>4547 Van Nuys Blvd</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Sherman Oaks</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91403.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 990-2095</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.44906,34.15439,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Brickyard Pub</name>
+        <description><![CDATA[id: 82<br>Genre: pubs<br>Rating: 4<br>Lat: 34.164801<br>Long: -118.373569<br>Cost: $$<br>Address: 11130 Magnolia Blvd<br>Citiy: North Hollywood<br>Zip Code: 91601<br>Country: US<br>State: CA<br>Phone: (818) 505-0460]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>82.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>pubs</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.164801</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.373569</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>11130 Magnolia Blvd</value>
+          </Data>
+          <Data name="Citiy">
+            <value>North Hollywood</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91601.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 505-0460</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.373569,34.164801,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Fat Dog</name>
+        <description><![CDATA[id: 83<br>Genre: gastropubs<br>Rating: 4<br>Lat: 34.164641<br>Long: -118.372247<br>Cost: $$<br>Address: 11050 Magnolia Blvd<br>Citiy: North Hollywood<br>Zip Code: 91601<br>Country: US<br>State: CA<br>Phone: (818) 985-3644]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>83.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>gastropubs</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.164641</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.372247</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>11050 Magnolia Blvd</value>
+          </Data>
+          <Data name="Citiy">
+            <value>North Hollywood</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91601.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 985-3644</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.372247,34.164641,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Federal</name>
+        <description><![CDATA[id: 84<br>Genre: newamerican<br>Rating: 3.5<br>Lat: 34.1671318<br>Long: -118.3761888<br>Cost: $$<br>Address: 5303 Lankershim Blvd<br>Citiy: North Hollywood<br>Zip Code: 91601<br>Country: US<br>State: CA<br>Phone: (818) 980-2555]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>84.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>newamerican</value>
+          </Data>
+          <Data name="Rating">
+            <value>3.5</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.1671318</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.3761888</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>5303 Lankershim Blvd</value>
+          </Data>
+          <Data name="Citiy">
+            <value>North Hollywood</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91601.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 980-2555</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.3761888,34.1671318,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Fifth</name>
+        <description><![CDATA[id: 85<br>Genre: lounges<br>Rating: 4<br>Lat: 34.15862215<br>Long: -118.4062672<br>Cost: $<br>Address: 4821 Whitsett Ave<br>Citiy: Valley Village<br>Zip Code: 91607<br>Country: US<br>State: CA<br>Phone: (818) 753-8297]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>85.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>lounges</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.15862215</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.4062672</value>
+          </Data>
+          <Data name="Cost">
+            <value>$</value>
+          </Data>
+          <Data name="Address">
+            <value>4821 Whitsett Ave</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Valley Village</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91607.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 753-8297</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.4062672,34.15862215,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Front Yard</name>
+        <description><![CDATA[id: 86<br>Genre: tapasmallplates<br>Rating: 4<br>Lat: 34.14558<br>Long: -118.36981<br>Cost: $$<br>Address: 4222 Vineland Ave<br>Citiy: North Hollywood<br>Zip Code: 91602<br>Country: US<br>State: CA<br>Phone: (818) 255-7290]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>86.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>tapasmallplates</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.14558</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.36981</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>4222 Vineland Ave</value>
+          </Data>
+          <Data name="Citiy">
+            <value>North Hollywood</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91602.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 255-7290</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.36981,34.14558,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Local Peasant - Sherman Oaks</name>
+        <description><![CDATA[id: 87<br>Genre: gastropubs<br>Rating: 4<br>Lat: 34.149048<br>Long: -118.439201<br>Cost: $$<br>Address: 14058 Ventura Blvd<br>Citiy: Sherman Oaks<br>Zip Code: 91423<br>Country: US<br>State: CA<br>Phone: (818) 501-0234]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>87.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>gastropubs</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.149048</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.439201</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>14058 Ventura Blvd</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Sherman Oaks</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91423.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 501-0234</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.439201,34.149048,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Local Peasant - Woodland Hills</name>
+        <description><![CDATA[id: 88<br>Genre: gastropubs<br>Rating: 3.5<br>Lat: 34.1654341<br>Long: -118.6252325<br>Cost: $$<br>Address: 22901 Ventura Blvd<br>Citiy: Woodland Hills<br>Zip Code: 91364<br>Country: US<br>State: CA<br>Phone: (818) 876-0105]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>88.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>gastropubs</value>
+          </Data>
+          <Data name="Rating">
+            <value>3.5</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.1654341</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.6252325</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>22901 Ventura Blvd</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Woodland Hills</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91364.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 876-0105</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.6252325,34.1654341,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Oaks Tavern</name>
+        <description><![CDATA[id: 89<br>Genre: karaoke<br>Rating: 4<br>Lat: 34.15040486<br>Long: -118.4303145<br>Cost: $$<br>Address: 13625 Moorpark St<br>Citiy: Sherman Oaks<br>Zip Code: 91423<br>Country: US<br>State: CA<br>Phone: (818) 789-0401]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>89.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>karaoke</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.15040486</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.4303145</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>13625 Moorpark St</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Sherman Oaks</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91423.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 789-0401</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.4303145,34.15040486,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The One Up</name>
+        <description><![CDATA[id: 90<br>Genre: arcades<br>Rating: 4<br>Lat: 34.148279<br>Long: -118.43042<br>Cost: $$<br>Address: 13625 Ventura Blvd<br>Citiy: Sherman Oaks<br>Zip Code: 91423<br>Country: US<br>State: CA<br>Phone: (818) 849-5181]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>90.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>arcades</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.148279</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.43042</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>13625 Ventura Blvd</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Sherman Oaks</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91423.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 849-5181</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.43042,34.148279,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Other Door</name>
+        <description><![CDATA[id: 91<br>Genre: lounges<br>Rating: 4<br>Lat: 34.17244<br>Long: -118.35915<br>Cost: $$<br>Address: 10437 Burbank Blvd<br>Citiy: North Hollywood<br>Zip Code: 91601<br>Country: US<br>State: CA<br>Phone: (818) 508-7008]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>91.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>lounges</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.17244</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.35915</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>10437 Burbank Blvd</value>
+          </Data>
+          <Data name="Citiy">
+            <value>North Hollywood</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91601.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 508-7008</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.35915,34.17244,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Red Door</name>
+        <description><![CDATA[id: 92<br>Genre: bars<br>Rating: 4.5<br>Lat: 34.15251<br>Long: -118.3502<br>Cost: $$<br>Address: 10057 Riverside Dr<br>Citiy: Toluca Lake<br>Zip Code: 91602<br>Country: US<br>State: CA<br>Phone: (818) 277-3884]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>92.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>bars</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.5</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.15251</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.3502</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>10057 Riverside Dr</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Toluca Lake</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91602.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 277-3884</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.3502,34.15251,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[The Red Room Food & Wine Bar]]></name>
+        <description><![CDATA[id: 93<br>Genre: venues<br>Rating: 4<br>Lat: 34.1615727<br>Long: -118.5139993<br>Cost: $$<br>Address: 17499 Ventura Blvd<br>Citiy: Encino<br>Zip Code: 91316<br>Country: US<br>State: CA<br>Phone: (818) 386-0278]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>93.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>venues</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.1615727</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.5139993</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>17499 Ventura Blvd</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Encino</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91316.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 386-0278</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.5139993,34.1615727,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Rendition Room</name>
+        <description><![CDATA[id: 94<br>Genre: cocktailbars<br>Rating: 5<br>Lat: 34.14884<br>Long: -118.37931<br>Cost: $$<br>Address: 4349 Tujunga Ave<br>Citiy: Los Angeles<br>Zip Code: 91604<br>Country: US<br>State: CA<br>Phone: ]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>94.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>cocktailbars</value>
+          </Data>
+          <Data name="Rating">
+            <value>5.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.14884</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.37931</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>4349 Tujunga Ave</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Los Angeles</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91604.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.37931,34.14884,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Scene</name>
+        <description><![CDATA[id: 95<br>Genre: sportsbars<br>Rating: 4<br>Lat: 34.20852<br>Long: -118.42257<br>Cost: $<br>Address: 13307 Saticoy St<br>Citiy: North Hollywood<br>Zip Code: 91605<br>Country: US<br>State: CA<br>Phone: (818) 983-1676]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>95.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>sportsbars</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.20852</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.42257</value>
+          </Data>
+          <Data name="Cost">
+            <value>$</value>
+          </Data>
+          <Data name="Address">
+            <value>13307 Saticoy St</value>
+          </Data>
+          <Data name="Citiy">
+            <value>North Hollywood</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91605.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 983-1676</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.42257,34.20852,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Shack</name>
+        <description><![CDATA[id: 96<br>Genre: bars<br>Rating: 5<br>Lat: 34.16617584<br>Long: -118.6048813<br>Cost: $<br>Address: The Shack Dr<br>Citiy: Woodland Hills<br>Zip Code: <br>Country: US<br>State: CA<br>Phone: (818) 404-9742]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>96.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>bars</value>
+          </Data>
+          <Data name="Rating">
+            <value>5.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.16617584</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.6048813</value>
+          </Data>
+          <Data name="Cost">
+            <value>$</value>
+          </Data>
+          <Data name="Address">
+            <value>The Shack Dr</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Woodland Hills</value>
+          </Data>
+          <Data name="Zip Code">
+            <value/>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 404-9742</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.6048813,34.16617584,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Snug</name>
+        <description><![CDATA[id: 97<br>Genre: pubs<br>Rating: 4<br>Lat: 34.16629896<br>Long: -118.3515756<br>Cost: $<br>Address: 4108 W Magnolia Blvd<br>Citiy: Burbank<br>Zip Code: 91505<br>Country: US<br>State: CA<br>Phone: (818) 557-0018]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>97.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>pubs</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.16629896</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.3515756</value>
+          </Data>
+          <Data name="Cost">
+            <value>$</value>
+          </Data>
+          <Data name="Address">
+            <value>4108 W Magnolia Blvd</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Burbank</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91505.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 557-0018</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.3515756,34.16629896,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Spot</name>
+        <description><![CDATA[id: 98<br>Genre: hookah_bars<br>Rating: 4<br>Lat: 34.15989<br>Long: -118.50771<br>Cost: $$<br>Address: 17200 Ventura Blvd<br>Citiy: Encino<br>Zip Code: 91316<br>Country: US<br>State: CA<br>Phone: (818) 783-2233]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>98.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>hookah_bars</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.15989</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.50771</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>17200 Ventura Blvd</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Encino</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91316.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 783-2233</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.50771,34.15989,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The White Harte Public House</name>
+        <description><![CDATA[id: 99<br>Genre: pubs<br>Rating: 4<br>Lat: 34.16801012<br>Long: -118.6163139<br>Cost: $$<br>Address: 22456 Ventura Blvd<br>Citiy: Woodland Hills<br>Zip Code: 91364<br>Country: US<br>State: CA<br>Phone: (818) 224-3822]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>99.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>pubs</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.16801012</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.6163139</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>22456 Ventura Blvd</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Woodland Hills</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91364.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 224-3822</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.6163139,34.16801012,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Woodman</name>
+        <description><![CDATA[id: 100<br>Genre: pubs<br>Rating: 4<br>Lat: 34.148148<br>Long: -118.430145<br>Cost: $$<br>Address: 13615 Ventura Blvd<br>Citiy: Los Angeles<br>Zip Code: 91423<br>Country: US<br>State: CA<br>Phone: (818) 386-9401]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>100.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>pubs</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.148148</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.430145</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>13615 Ventura Blvd</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Los Angeles</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91423.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 386-9401</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.430145,34.148148,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tiki No</name>
+        <description><![CDATA[id: 101<br>Genre: tikibars<br>Rating: 3.5<br>Lat: 34.15546444<br>Long: -118.3691834<br>Cost: $$<br>Address: 4657 Lankershim Blvd<br>Citiy: North Hollywood<br>Zip Code: 91602<br>Country: US<br>State: CA<br>Phone: (818) 766-0116]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>101.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>tikibars</value>
+          </Data>
+          <Data name="Rating">
+            <value>3.5</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.15546444</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.3691834</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>4657 Lankershim Blvd</value>
+          </Data>
+          <Data name="Citiy">
+            <value>North Hollywood</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91602.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 766-0116</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.3691834,34.15546444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tipsy Cow</name>
+        <description><![CDATA[id: 102<br>Genre: bars<br>Rating: 3.5<br>Lat: 34.166385<br>Long: -118.591697<br>Cost: $$<br>Address: 21028 Ventura Blvd<br>Citiy: Woodland Hills<br>Zip Code: 91367<br>Country: US<br>State: CA<br>Phone: (818) 914-5451]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>102.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>bars</value>
+          </Data>
+          <Data name="Rating">
+            <value>3.5</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.166385</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.591697</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>21028 Ventura Blvd</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Woodland Hills</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91367.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 914-5451</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.591697,34.166385,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tipsy Cow</name>
+        <description><![CDATA[id: 103<br>Genre: burgers<br>Rating: 4<br>Lat: 34.15292925<br>Long: -118.4599311<br>Cost: $$<br>Address: 15005 Ventura Blvd<br>Citiy: Sherman Oaks<br>Zip Code: 91403<br>Country: US<br>State: CA<br>Phone: (818) 986-8472]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>103.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>burgers</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.15292925</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.4599311</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>15005 Ventura Blvd</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Sherman Oaks</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91403.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 986-8472</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.4599311,34.15292925,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Todo Bien Kitchen & Tequila Bar]]></name>
+        <description><![CDATA[id: 104<br>Genre: bars<br>Rating: 4<br>Lat: 34.16719363<br>Long: -118.6192489<br>Cost: $$<br>Address: 22616 Ventura Blvd<br>Citiy: Los Angeles<br>Zip Code: 91364<br>Country: US<br>State: CA<br>Phone: (818) 805-9331]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>104.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>bars</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.16719363</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.6192489</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>22616 Ventura Blvd</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Los Angeles</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91364.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 805-9331</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.6192489,34.16719363,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tonga Hut Tiki Lounge</name>
+        <description><![CDATA[id: 105<br>Genre: lounges<br>Rating: 4<br>Lat: 34.186512<br>Long:                      vbvv<br>Cost: $$<br>Address: 12808 Victory Blvd<br>Citiy: North Hollywood<br>Zip Code: 91606<br>Country: US<br>State: CA<br>Phone: (818) 769-0708]]></description>
+        <ExtendedData>
+          <Data name="id">
+            <value>105.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>lounges</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.186512</value>
+          </Data>
+          <Data name="Long">
+            <value>                     vbvv</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>12808 Victory Blvd</value>
+          </Data>
+          <Data name="Citiy">
+            <value>North Hollywood</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91606.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 769-0708</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Tribute</name>
+        <description><![CDATA[id: 106<br>Genre: cocktailbars<br>Rating: 4.5<br>Lat: 34.14875<br>Long: -118.43381<br>Cost: $$<br>Address: 13817 Ventura Blvd<br>Citiy: Los Angeles<br>Zip Code: 91423<br>Country: US<br>State: CA<br>Phone: (818) 981-1334]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>106.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>cocktailbars</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.5</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.14875</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.43381</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>13817 Ventura Blvd</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Los Angeles</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91423.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 981-1334</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.43381,34.14875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Tuccio's]]></name>
+        <description><![CDATA[id: 107<br>Genre: cocktailbars<br>Rating: 4<br>Lat: 34.17873<br>Long: -118.59969<br>Cost: $$<br>Address: 21550 Oxnard St<br>Citiy: Woodland Hills<br>Zip Code: 91367<br>Country: US<br>State: CA<br>Phone: (818) 888-4514]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>107.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>cocktailbars</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.17873</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.59969</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>21550 Oxnard St</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Woodland Hills</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91367.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 888-4514</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.59969,34.17873,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ujpest Sports Lounge</name>
+        <description><![CDATA[id: 108<br>Genre: sportsbars<br>Rating: 4<br>Lat: 34.19365311<br>Long: -118.4390717<br>Cost: $<br>Address: 14034 Vanowen St<br>Citiy: Van Nuys<br>Zip Code: 91405<br>Country: US<br>State: CA<br>Phone: (818) 780-6823]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>108.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>sportsbars</value>
+          </Data>
+          <Data name="Rating">
+            <value>4.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.19365311</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.4390717</value>
+          </Data>
+          <Data name="Cost">
+            <value>$</value>
+          </Data>
+          <Data name="Address">
+            <value>14034 Vanowen St</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Van Nuys</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91405.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 780-6823</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.4390717,34.19365311,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wave Hookah</name>
+        <description><![CDATA[id: 109<br>Genre: lounges<br>Rating: 5<br>Lat: 34.19436961<br>Long: -118.4574987<br>Cost: $<br>Address: 6817 Kester Ave<br>Citiy: Van Nuys<br>Zip Code: 91405<br>Country: US<br>State: CA<br>Phone: (818) 747-6099]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>109.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>lounges</value>
+          </Data>
+          <Data name="Rating">
+            <value>5.0</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.19436961</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.4574987</value>
+          </Data>
+          <Data name="Cost">
+            <value>$</value>
+          </Data>
+          <Data name="Address">
+            <value>6817 Kester Ave</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Van Nuys</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91405.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 747-6099</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.4574987,34.19436961,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>XOC Tequila Grill</name>
+        <description><![CDATA[id: 110<br>Genre: mexican<br>Rating: 3.5<br>Lat: 34.18572589<br>Long: -118.6045778<br>Cost: $$<br>Address: 6316 N Topanga Canyon Blvd<br>Citiy: Los Angeles<br>Zip Code: 91367<br>Country: US<br>State: CA<br>Phone: (818) 992-7930]]></description>
+        <styleUrl>#icon-1517-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>110.0</value>
+          </Data>
+          <Data name="Genre">
+            <value>mexican</value>
+          </Data>
+          <Data name="Rating">
+            <value>3.5</value>
+          </Data>
+          <Data name="Lat">
+            <value>34.18572589</value>
+          </Data>
+          <Data name="Long">
+            <value>-118.6045778</value>
+          </Data>
+          <Data name="Cost">
+            <value>$$</value>
+          </Data>
+          <Data name="Address">
+            <value>6316 N Topanga Canyon Blvd</value>
+          </Data>
+          <Data name="Citiy">
+            <value>Los Angeles</value>
+          </Data>
+          <Data name="Zip Code">
+            <value>91367.0</value>
+          </Data>
+          <Data name="Country">
+            <value>US</value>
+          </Data>
+          <Data name="State">
+            <value>CA</value>
+          </Data>
+          <Data name="Phone">
+            <value>(818) 992-7930</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.6045778,34.18572589,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
